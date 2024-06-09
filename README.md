@@ -1,7 +1,7 @@
 # **안기환, Ahn-GiHwan**
-**Junior Frontend Developer**
+**Web Frontend Developer**
 
-모든 코드에 이유를 생각하고, 다양한 관점에서 코드를 바라보려고 노력하는 개발자입니다.
+좋은 영향력을 끼치고 싶은 3년차 프론트엔드 개발자입니다.
 
 ### **Language**
 
