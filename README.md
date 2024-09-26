@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-0099E5?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white"/> 
 </div>
 
 ### **Backend**
